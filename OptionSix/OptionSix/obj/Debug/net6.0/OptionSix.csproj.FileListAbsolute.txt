@@ -1,0 +1,15 @@
+C:\Users\316-01\Desktop\OptionSix\OptionSix\bin\Debug\net6.0\OptionSix.exe
+C:\Users\316-01\Desktop\OptionSix\OptionSix\bin\Debug\net6.0\OptionSix.deps.json
+C:\Users\316-01\Desktop\OptionSix\OptionSix\bin\Debug\net6.0\OptionSix.runtimeconfig.json
+C:\Users\316-01\Desktop\OptionSix\OptionSix\bin\Debug\net6.0\OptionSix.dll
+C:\Users\316-01\Desktop\OptionSix\OptionSix\bin\Debug\net6.0\OptionSix.pdb
+C:\Users\316-01\Desktop\OptionSix\OptionSix\obj\Debug\net6.0\OptionSix.csproj.AssemblyReference.cache
+C:\Users\316-01\Desktop\OptionSix\OptionSix\obj\Debug\net6.0\OptionSix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\316-01\Desktop\OptionSix\OptionSix\obj\Debug\net6.0\OptionSix.AssemblyInfoInputs.cache
+C:\Users\316-01\Desktop\OptionSix\OptionSix\obj\Debug\net6.0\OptionSix.AssemblyInfo.cs
+C:\Users\316-01\Desktop\OptionSix\OptionSix\obj\Debug\net6.0\OptionSix.csproj.CoreCompileInputs.cache
+C:\Users\316-01\Desktop\OptionSix\OptionSix\obj\Debug\net6.0\OptionSix.dll
+C:\Users\316-01\Desktop\OptionSix\OptionSix\obj\Debug\net6.0\refint\OptionSix.dll
+C:\Users\316-01\Desktop\OptionSix\OptionSix\obj\Debug\net6.0\OptionSix.pdb
+C:\Users\316-01\Desktop\OptionSix\OptionSix\obj\Debug\net6.0\OptionSix.genruntimeconfig.cache
+C:\Users\316-01\Desktop\OptionSix\OptionSix\obj\Debug\net6.0\ref\OptionSix.dll
